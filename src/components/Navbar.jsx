@@ -41,7 +41,7 @@ function Navbar() {
               <AnchorLink href="#skills">Skills</AnchorLink>
             </li>
             <li className="bla">
-              <AnchorLink href="#projects">Projects</AnchorLink>
+              <AnchorLink href="#projects">Working Experience</AnchorLink>
             </li>
           </ul>
 
